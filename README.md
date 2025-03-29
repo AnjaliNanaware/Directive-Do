@@ -1,5 +1,5 @@
 
-Directive Do
+## Directive Do
 
 Directive Do is a web-based to-do list application designed to help users prioritize tasks effectively using the Eisenhower Matrix (also known as the Urgent-Important Matrix). It allows users to categorize their tasks into four quadrants: Urgent and Important, Important but Not Urgent, Urgent but Not Important, and Neither Urgent nor Important. This categorization enables users to visually organize their tasks and focus on what truly needs their immediate attention, improving productivity and time management.   
 
@@ -58,7 +58,7 @@ This application is ideal for anyone who wants to:
 |  `id`| `long` | **Required**.ID of the ToDo to update. |
 |  `completed`| `boolean` | **Required**. New completion status (true/false). |
 
-ScreenShot 
+## ScreenShot 
 
 ![Screenshot 2025-03-29 233420](https://github.com/user-attachments/assets/6c37d932-0000-4ae3-8ec1-86483f41fbfb)
 
